@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mario-andreschak-mcp-sap-gui-badge.png)](https://mseep.ai/app/mario-andreschak-mcp-sap-gui)
+
 # MCP SAP GUI Server
 
 A Model Context Protocol (MCP) server for SAP GUI automation. This server provides tools to automate interactions with SAP GUI, enabling programmatic control of SAP transactions.
